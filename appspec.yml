@@ -1,4 +1,4 @@
-version: 0.2
+version: 1
 files:
   - source: .
     destination: /home/ec2-user/angular
