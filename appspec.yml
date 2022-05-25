@@ -12,6 +12,4 @@ phases:
       # - echo testing...
       # - echo building...
       - ng build --prod
-  post_build:
-    commands:
-      - echo 
+  
