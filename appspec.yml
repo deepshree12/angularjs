@@ -4,4 +4,4 @@ files:
   - source: .
     destination: /home/ubuntu/angular/
 hooks:
-  - AfterInstall: "script/run.sh"
+   - AfterInstall: script/run.sh
