@@ -1,5 +1,6 @@
 version: 1
 files:
   - source: .
-    destination: /home/ec2-user/angular
+    destination: /var/www/html
+
 
