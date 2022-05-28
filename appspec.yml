@@ -5,7 +5,7 @@ files:
     destination: /home/ubuntu/angular/
 hooks:
   AfterInstall:
-    - location: script/run.sh
+    - location: script/run
       timeout: 300
       runas: root
       
