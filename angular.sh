@@ -1,1 +1,1 @@
-pwd
+cd /home/ubuntu/angular
